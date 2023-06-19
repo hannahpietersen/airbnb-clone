@@ -22,7 +22,7 @@ This is the repository for the Airbnb-clone project
 
 ### Screenshot
 
-[screenshot](tenzies-game/src/screenshots/screenshot.png)
+[screenshot](screenshot/screenshot.png)
 
 
 ### Links
